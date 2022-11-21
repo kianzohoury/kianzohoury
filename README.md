@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kianzohoury
-- 👀 I’m interested in software engineering and machine learning 
+- 👋 Hi, I’m @kianzohoury.
+- 👀 I’m interested in software engineering and machine learning.
 - 🌱 I’m currently learning AWS, Flask, Docker.
 - 📫 Email me at kzohoury@berkeley.edu or add me on [LinkedIn](https://www.linkedin.com/in/kianzohoury/).
 
